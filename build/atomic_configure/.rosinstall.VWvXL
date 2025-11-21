@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ltq/catkin_ws/src/nav_cpp/build/devel/setup.sh

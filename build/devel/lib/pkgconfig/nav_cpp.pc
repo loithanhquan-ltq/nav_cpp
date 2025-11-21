@@ -1,0 +1,8 @@
+prefix=/home/ltq/catkin_ws/src/nav_cpp/build/devel
+
+Name: nav_cpp
+Description: Description of nav_cpp
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

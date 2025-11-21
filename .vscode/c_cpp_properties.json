@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "${default}",
+                "limitSymbolsToIncludedHeaders": false
+            },
+            "includePath": [
+                "/opt/ros/noetic/include/**",
+                "/home/ltq/catkin_ws/src/nav_cpp/include/**",
+                "/home/ltq/catkin_ws/src/turtlebot3_simulations/turtlebot3_fake/include/**",
+                "/home/ltq/catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+                "/home/ltq/catkin_ws/src/turtlesim_cpp/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "c++14",
+            "configurationProvider": "ms-vscode.cmake-tools"
+        }
+    ],
+    "version": 4
+}
